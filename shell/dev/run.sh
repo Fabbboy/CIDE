@@ -1,0 +1,1 @@
+go build -o main ../main.go && ./main main.txt && rm -rf main.exe main.txt

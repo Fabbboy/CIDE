@@ -1,0 +1,16 @@
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6 h1:zDw5v7qm4yH7N8C8uWd+8Ii9rROdgWxQuGoJ9WDXxfk=
+github.com/go-gl/gl v0.0.0-20211210172815-726fda9656d6/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20220622232848-a6c407ee30a0 h1:ZWsNtyC3mgUL48DikCfjkyiaRYZ3OL2XBfn7JJs2/ZE=
+github.com/go-gl/glfw/v3.3/glfw v0.0.0-20220622232848-a6c407ee30a0/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
+github.com/jroimartin/gocui v0.5.0 h1:DCZc97zY9dMnHXJSJLLmx9VqiEnAj0yh0eTNpuEtG/4=
+github.com/jroimartin/gocui v0.5.0/go.mod h1:l7Hz8DoYoL6NoYnlnaX6XCNR62G7J5FfSW5jEogzaxE=
+github.com/mattn/go-runewidth v0.0.9 h1:Lm995f3rfxdpd6TSmuVCHVb/QhupuXlYr8sCI/QdE+0=
+github.com/mattn/go-runewidth v0.0.9/go.mod h1:H031xJmbD/WCDINGzjvQ9THkh0rPKHF+m2gUSrubnMI=
+github.com/nsf/termbox-go v1.1.1 h1:nksUPLCb73Q++DwbYUBEglYBRPZyoXJdrj5L+TkjyZY=
+github.com/nsf/termbox-go v1.1.1/go.mod h1:T0cTdVuOwf7pHQNtfhnEbzHbcNyCEcVU4YPpouCbVxo=
+github.com/teh-cmc/go-sfml v0.0.0-20170911223535-25d755527155 h1:SdRPNQp0HGWQvsb6r0FaxjXqmxuadviq9SKiU+O00Jw=
+github.com/teh-cmc/go-sfml v0.0.0-20170911223535-25d755527155/go.mod h1:F21hEFBbND6kyomYzhb+/RdmPb6shKH38rD6f9aI8F8=
+github.com/veandco/go-sdl2 v0.4.24 h1:J+OCnPp0yfas4DAG13e3kIgC84mNxWGa3gpWYxrQQfI=
+github.com/veandco/go-sdl2 v0.4.24/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
+gopkg.in/teh-cmc/go-sfml.v24 v24.0.0-20170910220153-372cfe28f3e7 h1:bej0Q+j0OUwOktQB1jGyks1IzPZABXCD7U1pvSyU2oY=
+gopkg.in/teh-cmc/go-sfml.v24 v24.0.0-20170910220153-372cfe28f3e7/go.mod h1:v+GAYMtZLqXbE4kZxNX3DbQfC1k9w5xIyWO4n9jmVto=
